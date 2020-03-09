@@ -1,9 +1,8 @@
-<h1>The Clickster<h1>
+<h1>Puppy Love<h1>
 
 <h2>Overview</h2>
 <ul>
-  <li>The Clickster is a web game application where users click images of <em>adorable</em> puppies in order to earn points.  You win the game whenever you have clicked all 9 of the puppies.  The only catch is that the puppies move in their location with every click... </li>
-  <li>The puppy images were found at https://www.pexels.com/search/dog/.</li>
+  <li>Puppy love is an application where users click images of puppies in order to earn points. You win the game whenever you have clicked all 9 puppies without clicking them twice. The only catch is that the puppies move in their location every time you click. </li>
 </ul>
 
 <h2>Technologies Used:</h2>
@@ -31,7 +30,4 @@
 </ul>
 <p>I chose not to do a separate header component but it could be done.  In fact, you could have the header component include some of the score details.</p>
 
-<h2>The clickster can be found on Heroku <a href='https://clicky-clickster.herokuapp.com/'>here</a></h2>
 
-
-<footer>The Clickster Designer and Programmer: Heather Mathies with help from UCF Bootcamp and her friends.</footer>
