@@ -17,17 +17,10 @@
 <h4>Starting to Code</h4>
 <p>Create-react-app gives you a public folder with a basic index.html page, some basic css for the react template, an App.js file, index.js file, and some other boilerplate files.  I only had to alter two things in the index.html page: the title of my app and include a Bootstrap CDN link. I either altered or completely changed the rest of the files, adding my own style.  The bulk of the code for this app was done in the src/components directory.  I decided to make three total components for my app, however, it could have been made with much more or probably less.</p>
 <h4>Components</h4>
-<ul>
-  <li>Card
-      <p>The card component is where the puppy images are displayed.</p>
-  </li>
-  <li>Score
-    <p>The score component is where the score is displayed.</p>
-  </li>
-  <li>Wrapper
-    <p>The Wrapper component wraps the card component.</p>
-  </li>
-</ul>
+<h5>Card</5><p> - The card component is where the puppy images are displayed.</p>
+<h5>Score</5> <p> - The score component is where the score is displayed.</p>
+<h5>Wrapper - <p>The Wrapper component wraps the card component.</p>
+
 <p>I chose not to do a separate header component but it could be done.  In fact, you could have the header component include some of the score details.</p>
 
 
