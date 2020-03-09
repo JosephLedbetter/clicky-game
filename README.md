@@ -19,8 +19,6 @@
 <h4>Components</h4>
 <h5>Card</5><p> - The card component is where the puppy images are displayed.</p>
 <h5>Score</5> <p> - The score component is where the score is displayed.</p>
-<h5>Wrapper - <p>The Wrapper component wraps the card component.</p>
-
-<p>I chose not to do a separate header component but it could be done.  In fact, you could have the header component include some of the score details.</p>
+<h5>Wrapper</5> - <p>The Wrapper component wraps the card component.</p>
 
 
